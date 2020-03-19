@@ -1,11 +1,11 @@
 # Corona-Bot
 Corona Virus Info Telegram Bot [Version: 1.0]
 
-Coded By kihanb [ kihanb.ir | @kihanb_ir ]
+Coded By kihanb [ https://kihanb.ir | Telegram : @kihanb_ir ]
 
-Api Manager : one api [ one-api.ir | @One_apis ] ( You should sign up here & use your own token ! )
+Api Manager : one api [ https://one-api.ir | Telegram : @One_apis ] ( You should sign up here & use your own token ! )
 
-Demo: htpps://t.me/iCoronaRobot
+Demo: https://t.me/iCoronaRobot
 
 Support:
 https://kihanb.ir ,
